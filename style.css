@@ -1,0 +1,42 @@
+*{
+    font-family: 'poppins',sans-serif;
+}
+body{
+    background: #202020;
+    color: #fff;
+}
+.header{
+    /*background-color:#4682;*/
+    background-color:#080808;
+}
+
+.d-block{
+    border-radius: 75%;
+    height: 300px;
+}
+.para{
+    margin-top: 15px;
+}
+#about-para{
+    font-size: 25px;
+}
+.hello{
+    margin-left: 670px;
+
+}
+.hello > h5{
+    font-size: 30px;
+}
+.resume{
+    background-color:#202020;
+}
+.works{
+    background-color:#393939;
+}
+.about{
+    background-color:#525252;
+}
+.footer{
+    background-color: #080808;
+    padding: 10px;
+}
